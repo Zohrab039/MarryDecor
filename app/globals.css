@@ -1,0 +1,12 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/inter-ui/4.0.2/inter.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/inter-ui/4.0.2/inter-display.css");
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: InterDisplay;
+}
